@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tiago Miguel Vilar Bastos, and I'm a university student with a passion for building beautiful and user-friendly web applications. 
+My name is Tiago Miguel Vilar Bastos, and I'm a university student with a passion for building user-friendly web applications. 
 
 👨‍💻 Currently, I'm taking the Master Degree in Aveiro University of computer and telematics engeneering. 
 
