@@ -16,5 +16,5 @@ My name is Tiago Miguel Vilar Bastos, and I'm a university student with a passio
 [![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat)](https://www.java.com/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=Tailwind%20CSS&logoColor=white&style=flat)](https://tailwindcss.com/)
-
+![Profile Views](https://komarev.com/ghpvc/?username=vilar07)
 
