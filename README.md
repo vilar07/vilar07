@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Tiago Miguel Vilar Bastos, and I'm a university student with a passion for building user-friendly web applications. 
+My name is Tiago Miguel Vilar Bastos, and I'm a software engineer with a passion for building user-friendly web applications. 
 
-👨‍💻 Currently, I have the Master Degree in Aveiro University of computer and telematics engineering and a degree in Informatics and Computers Engineering.
+👨‍💻I have the Master Degree in Aveiro University of computer and telematics engineering and a degree in Informatics and Computers Engineering.
 
 🌱 I'm constantly learning and improving my skills, and I'm excited to collaborate on new projects and learn from other developers. 
 
