@@ -18,5 +18,7 @@ My name is Tiago Miguel Vilar Bastos, and I'm a university student with a passio
 [![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat)](https://www.java.com/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=Tailwind%20CSS&logoColor=white&style=flat)](https://tailwindcss.com/)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)](https://nestjs.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)](https://www.mysql.com/)
 ![Profile Views](https://komarev.com/ghpvc/?username=vilar07)
 
