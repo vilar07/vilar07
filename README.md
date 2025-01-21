@@ -4,7 +4,9 @@ My name is Tiago Miguel Vilar Bastos, and I'm a software engineer with a passion
 
 👨‍💻I have the Master Degree in Aveiro University of computer and telematics engineering and a degree in Informatics and Computers Engineering.
 
-🌱 I'm constantly learning and improving my skills, and I'm excited to collaborate on new projects and learn from other developers. 
+🌱 I'm constantly learning and improving my skills, and I'm excited to collaborate on new projects and learn from other developers.
+
+💼 Currently working as DevOps Engineer at Altice Labs in Aveiro.
 
 💬 Feel free to reach out to me if you have any questions or just want to chat! You can find me on [LinkedIn](https://www.linkedin.com/in/tiago-vilar-85a753134/)
 
